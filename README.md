@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @awais9876-a11y
+- 👋 Hi, I’m @Awais_Riaz_143
 - 👀 I’m interested in programing to fulfill inovative ideas
 - 🌱 I’m currently learning C++ and PYTHON
 - 💞️ I’m looking to collaborate on creating inovative projects
